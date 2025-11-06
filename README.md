@@ -1,0 +1,1 @@
+read me do you mean i need to upload the .gitignore/folder structure/project-link.txt???? idk what i just did /**/README.* does not work for me for some reason i had to go with /*/**/README.*
